@@ -1,4 +1,3 @@
-
 # curso_alura_logica_de_programacao_interface
 "Este projeto é um jogo de adivinhação interativo, construído com HTML, CSS e JavaScript. Ele demonstra como o JavaScript manipula o DOM para criar uma experiência dinâmica, atualizando o conteúdo da página com base na interação do usuário. O código reflete conceitos de eventos e separação de responsabilidades."
 
@@ -14,5 +13,8 @@ Manipulação do DOM (Document Object Model): A parte mais significativa da minh
 Eventos e Interação do Usuário: O botão "Chutar" no HTML tem o atributo onclick="verificarChute()". Isso mostra que aprendi a associar um evento de clique a uma função JavaScript. Quando o usuário clica no botão, a função verificarChute() é executada, o que é a base para criar interatividade na web.
 
 Modularização e Organização de Código: Separei a estrutura da página (.html), o estilo visual (.css, mencionado no link rel="stylesheet"), e a lógica do jogo (.js). Essa separação é uma prática recomendada no desenvolvimento web, pois torna o código mais fácil de ler, manter e depurar.
+
+Integração de Bibliotecas Externas: A linha <script src="https://code.responsivevoice.org/..."></script> demonstra como pude integrar funcionalidades de terceiros (neste caso, uma biblioteca para síntese de voz) ao projeto, expandindo as capacidades sem ter que programá-las do zero.
+
 
 Integração de Bibliotecas Externas: A linha <script src="https://code.responsivevoice.org/..."></script> demonstra como pude integrar funcionalidades de terceiros (neste caso, uma biblioteca para síntese de voz) ao projeto, expandindo as capacidades sem ter que programá-las do zero.
